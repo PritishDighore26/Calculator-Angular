@@ -1,5 +1,5 @@
-#UI
-![Screenshot 2024-10-22 225511](https://github.com/user-attachments/assets/2c807985-d828-4367-bc43-32154c692239)
+# UI
+
 
 # CalculatorProject
 
